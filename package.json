@@ -1,0 +1,15 @@
+{
+  "name": "mustafaamir_oops-my-bank",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fizra Amir",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.4"
+  }
+}
